@@ -1,0 +1,20 @@
+.header-title{
+	position: relative;
+	margin-top: -10px;
+	margin-bottom: 0px;
+}
+.navbar-main-content{
+	background-color: #F6B319;
+	border: 1px solid #61122f;
+}
+#home-tiles{
+	background-color: #999999;
+}
+.navbar-default .navbar-nav>li>a {
+	border: 1px solid #61122f;
+	background-color: #FFFFFF;
+}
+
+#nav-list a{
+	
+}
